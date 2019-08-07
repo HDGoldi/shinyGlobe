@@ -3,8 +3,6 @@ shinyGlobe
 
 An integration of RStudio's Shiny with Google's WebGL Globe platform. 
 
-A **[Live Demo](http://spark.rstudio.com/trestletech/globePopulation/)** is available at [http://spark.rstudio.com/trestletech/globePopulation/](http://spark.rstudio.com/trestletech/globePopulation/).
-
 ## Installation
 
 `shinyGlobe` isn't yet available on CRAN, but you can use `devtools` to install it from GitHub.
