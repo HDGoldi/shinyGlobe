@@ -14,7 +14,7 @@ A **[Live Demo](http://spark.rstudio.com/trestletech/globePopulation/)** is avai
 install.packages("devtools")
 
 library(devtools)
-install_github("shinyGlobe", "trestletech")
+install_github("HDGoldi/shinyGlobe")
 ```
 
 ## Usage
